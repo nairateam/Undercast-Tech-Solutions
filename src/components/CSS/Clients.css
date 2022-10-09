@@ -1,0 +1,10 @@
+
+.clients{
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.clients p{
+    /* padding: 1rem; */
+    color: #5C5C5C;
+}

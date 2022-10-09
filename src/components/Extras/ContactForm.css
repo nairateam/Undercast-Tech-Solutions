@@ -1,0 +1,59 @@
+.form__wrapper{
+    text-align: left;
+}
+
+.form__wrapper > p{
+    color: #5C5C5C;
+}
+
+.form__wrapper h3{
+    font-size: 2rem;
+    color: #020202;
+    background: url(../Extras/images/ht.svg);
+    background-position: 365px top;
+    /* padding-top: 0.4rem; */
+    background-repeat: no-repeat;
+    background-size: 5%;
+    margin: 0;
+}
+
+.form__control{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    gap: 0.1rem;
+    padding: 0.5rem 0;
+}
+
+.form__control label{
+    color: #020202;
+    font-size: 1.2rem;
+    padding: 0.4rem;
+}
+
+.form__control input{
+    color: #FFFFFF;
+    border: 1px solid #5C5C5C;
+    border-radius: 14px;
+    padding: 0.7rem;
+}
+
+.form__control select{
+    color: #FFFFFF;
+    border: 1px solid #5C5C5C;
+    border-radius: 14px;
+    padding: 0.7rem;
+    color: green;
+    background: #FFF;
+    height: 2.5rem;
+}
+
+.form__control button{
+    background: var(--btn-bg);
+    border-radius: 40px;
+    padding: 14px 40px;
+    color: var(--pry-text);
+}
+
+
+

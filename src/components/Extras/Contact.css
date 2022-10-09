@@ -1,0 +1,34 @@
+.contact__wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.contact{
+    flex: 50%;
+}
+
+/* .first{
+    width: 30%;
+} */
+
+.contact img{
+    max-width: 400px;
+}
+
+@media (max-width: 900px) {
+    .contact img{
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 700px) {
+    .contact__wrap{
+        flex-direction: column-reverse;
+    }
+
+    .contact img{
+        display: none;
+    }
+}

@@ -1,0 +1,89 @@
+.Box__container{
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+    background: url(../images/vect.svg) no-repeat 2% center, url(../images/vect1.svg) no-repeat 98% center;
+}
+
+.Box__container .box{
+    width: 18rem;
+    height: 14rem;
+    padding: 2rem 1rem;
+    border-radius: 30px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.box:nth-child(1){
+    border: 1px solid #3A39F7;
+    border-width: 3px 0px;
+}
+
+.box:nth-child(2){
+    border: 1px solid #C17C74;
+    border-width: 3px 0px;
+}
+
+.box:nth-child(3){
+    border: 1px solid #FA5F05;
+    border-width: 3px 0px;
+}
+
+.box:nth-child(4){
+    border: 1px solid #00A05D;
+    border-width: 3px 0px;
+}
+
+.box:nth-child(5){
+    border: 1px solid #1481AE;
+    border-width: 3px 0px;
+}
+
+.box .box__btn{
+    background: none;
+    border-radius: 30px;
+    margin-top: 0.4rem;
+    padding: 8px 14px;
+}
+
+.btn1{
+    border: 1px solid #3A39F7;
+}
+
+.btn2{
+    border: 1px solid #C17C74;
+}
+
+.btn3{
+    border: 1px solid #FA5F05;
+}
+
+.btn4{
+    border: 1px solid #00A05D;
+}
+
+.btn5{
+    border: 1px solid #1481AE;
+}
+
+.box .title{
+    font-weight: 600;
+    color: #020202;
+    font-size: 1.2rem;
+}
+
+.box p{
+    text-align: left;
+    padding: 0.4rem 0;
+    color: #343434;
+}
+
+@media (max-width: 865px) {
+    .Box__container{
+        gap: 2rem;
+        background-size: 15px;
+    }
+}
+

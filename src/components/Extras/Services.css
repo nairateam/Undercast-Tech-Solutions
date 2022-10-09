@@ -1,0 +1,36 @@
+.services{
+    padding: 2rem 0;
+}
+
+.services h2{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0.8rem;
+    padding-bottom: 0.5rem;
+    width: 65%;
+    font-weight: 700;
+    font-size: 2.5rem;
+    background: url(../Extras/images/ht.svg);
+    background-position: 98% top;
+    background-repeat: no-repeat;
+    background-size: 6%;
+}
+
+.services p{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 500;
+    color: #5C5C5C;
+}
+
+@media (max-width: 865px) {
+    .services h2{
+        width: 97%;
+        background-position: 98% top;
+        font-size: 2rem;
+    }
+
+    .services > p{
+        width: 90%;
+    }
+}

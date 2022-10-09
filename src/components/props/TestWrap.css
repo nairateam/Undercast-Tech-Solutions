@@ -1,0 +1,59 @@
+.wrapT{
+    padding: 2rem;
+    overflow: visible;
+}
+
+.test__wrap{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0.7rem;
+    background-color: #EEEEEE;
+    border-radius: 15px;
+    padding: 0.8rem;
+    margin: 0 2rem;
+    min-width: 18rem;
+    max-width: 24rem;
+    min-height: 8rem;
+    overflow: visible;
+    box-shadow: 1.95023px 3.90046px 31.2037px rgba(186, 149, 158, 0.2);
+}
+
+.pop{
+    position: absolute;
+    right: 1rem;
+    bottom: -2.255rem;
+    width: 25px;
+    overflow: visible;
+}
+
+.test__wrap .test .user_test{
+    text-align: left;
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #020202;
+}
+
+.test__wrap .test .user_job{
+    text-align: left;
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #5C5C5C;
+}
+
+.test__wrap .test .user_message{
+    text-align: left;
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #343434;
+}
+
+.test{
+    overflow: visible;
+}
+
+.test img{
+    width: 50px;
+    margin-top: 0.6rem;
+}

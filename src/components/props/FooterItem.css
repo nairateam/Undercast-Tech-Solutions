@@ -1,0 +1,17 @@
+.foot__item{
+    display: block;
+    max-width: 10rem;
+}
+
+.foot__item > h4{
+    font-weight: 600;
+    color: #00D4D0;
+    font-size: 1rem;
+}
+
+.foot__item > p{
+    font-weight: 500;
+    color: #EEEEEE;
+    font-size: 0.8rem;
+    width: 90%;
+}

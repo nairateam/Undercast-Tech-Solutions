@@ -1,0 +1,14 @@
+.HeroServices{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 3rem;
+    margin-top: 1rem;
+    background: url(../Extras/images/extra1.svg) no-repeat 5% center, url(../Extras/images/extra2.svg) no-repeat 95% center;
+    background-size: 12px;
+}
+
+.HeroServices img{
+    width: 90px;
+}
