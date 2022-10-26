@@ -16,3 +16,11 @@
     padding: 14px 40px;
     border: 1px solid var(--btn-bg);
 }
+
+.Btn a{
+    color: var(--pry-text);
+}
+
+.BtnT a{
+    color: var(--white);
+}

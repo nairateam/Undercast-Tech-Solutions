@@ -1,5 +1,6 @@
 import './CSS/Footer.css';
-import logo from '../IMAGES/uc__logo.svg';
+// import logo from '../IMAGES/uc__logo.svg';
+import log from '../IMAGES/uc.png';
 import FooterItem from './props/FooterItem';
 import english from '../IMAGES/english.svg';
 import facebook from '../IMAGES/Fb.svg';
@@ -11,7 +12,7 @@ function Footer() {
     return (
         <div className='footer__wrap'>
             <div className="slit_foot">
-                <img src={logo} alt='Logo' />
+                <img src={log} alt='Logo' />
                 <div className='footer__top'>
                 <FooterItem head='About Undercast' info="Learn whats behind our comapany." />
                 <FooterItem head='Our Services' info="What exactly we are offering to do." />

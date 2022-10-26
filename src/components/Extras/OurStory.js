@@ -6,7 +6,7 @@ function OurStory() {
     return (
         <div className='story__wrap'>
             <div className='story'>
-                <span>
+                <span id='about'>
                     <p>
                     A brief introduction to Undercast 
                     Technologies and what we do. 
@@ -23,7 +23,7 @@ function OurStory() {
                 We have a team of highly qualified professionals to cater for your requests and deliver top notch results in little to no time.
                 </p>
                 <div className='story__btn'>
-                <Btn name='About Us -' />
+                <Btn name='Our Services' link='#service' />
                 </div>
             </div>
             <div className='story'>

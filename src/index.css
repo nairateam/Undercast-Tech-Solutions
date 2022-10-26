@@ -29,3 +29,7 @@ code {
   --white: #EEEEEE;
   overflow-x: hidden;
 }
+
+a{
+  font-family: 'Manrope', sans-serif;
+}

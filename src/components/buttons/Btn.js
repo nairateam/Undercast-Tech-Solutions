@@ -6,7 +6,7 @@ function Btn(props) {
         <motion.button className='Btn'
         whileHover={{ scale: 1.2 }}
         >
-            {props.name}
+           <a href={`${props.link}`}>{props.name}</a>
         </motion.button>
     )
 };

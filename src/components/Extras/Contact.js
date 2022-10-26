@@ -4,7 +4,7 @@ import ContactForm from './ContactForm';
 
 function Contact() {
     return (
-        <section className='contact__wrap'>
+        <section className='contact__wrap' id='contact'>
             <div className='contact'>
                 <img src={ContactPic} alt="Contact" />
             </div>

@@ -37,7 +37,7 @@ li{
 
 header .main__nav ul{
     display: flex;
-    gap: 8rem;
+    gap: 3rem;
     overflow: visible;
 }
 
@@ -75,7 +75,7 @@ header .main__nav ul a{
 .logoss{
     color: #03989E;
     text-transform: uppercase;
-    visibility: hidden;
+    display: none;
 }
 
 /* .navs__close{
@@ -95,7 +95,16 @@ header .main__nav ul a{
     }
 
     .logoss{
-        visibility: visible;
+        display: flex;
+        align-items: center;
+        font-size: 0.8rem;
+        gap: 0.4rem;
+        color: aqua;
+    }
+
+    .logoss > img{
+        width: 35px;
+        height: 35px;
     }
 
     .navs__close{

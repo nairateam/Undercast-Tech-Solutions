@@ -6,7 +6,7 @@ import Ewc from './images/ewc.svg';
 
 function Project() {
     return (
-        <div className='bigP'>
+        <div className='bigP' id='portfolio'>
         <div className='project__wrap'>
             <div className='project'>
                 <p className='p_head'>

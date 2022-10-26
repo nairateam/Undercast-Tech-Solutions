@@ -5,7 +5,7 @@ function BtnT(props) {
         <motion.button className='BtnT'
             whileHover={{ background: 'none' }}
         >
-            {props.name}
+          <a href={`${props.link}`}>{props.name} </a>
         </motion.button>
     )
 };
