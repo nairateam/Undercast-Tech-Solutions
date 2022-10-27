@@ -4,7 +4,7 @@ import highT from './Extras/images/Highlight_05.svg';
 import vecT from './Extras/images/Vector1.svg';
 import Nav from './Nav.js';
 import HeroServices from './Extras/HeroServices';
-import Btn from './buttons/Btn';
+import Btn from './buttons/Btn.js';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { motion } from 'framer-motion';
@@ -35,7 +35,7 @@ function Hero() {
             </motion.p>
             <HeroServices />
             <div className='hero__btn'>
-                <Btn name='Contact Us' />
+                <Btn name='Contact Us' link='#contact' />
             </div>
             <div className='hero__banner'>
             <img src={heroPic} alt='Hero Banner' className='hero__banner' />

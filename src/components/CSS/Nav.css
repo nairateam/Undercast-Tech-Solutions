@@ -88,6 +88,9 @@ header .main__nav ul a{
         align-items: center;
         width: 95%;
         padding: 0.5rem 1rem;
+        -webkit-box-shadow: 0 -7.5px 4.5px 3.5px #fdfdfd;
+        -moz-box-shadow: 0 -7.5px 4.5px 3.5px #fdfdfd;
+        box-shadow: 0 -7.5px 4.5px 3.5px #fdfdfd;
     }
 
     .main__logo{

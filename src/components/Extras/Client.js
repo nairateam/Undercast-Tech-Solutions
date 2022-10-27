@@ -8,10 +8,10 @@ import client5 from './images/client5.webp';
 import client6 from './images/client6.webp';
 
 function Client() {
-    // var client = document.getElementById("client");
-    // client.scrollTop = client.scrollHeight;
+    
+
     return (
-        <div className="client">
+    <div className="client">
         <img src={client1} alt="Kinzbell" className='clien__logo' />
         <img src={client2} alt="Rookies" className='clien__logo' />
         <img src={client4} alt="Khash Exchange" className='clien__logo' />

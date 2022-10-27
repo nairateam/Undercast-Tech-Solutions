@@ -53,6 +53,11 @@
         justify-content: flex-start;
         align-items: flex-start;
         flex-direction: column;
+        gap: 2rem;
+    }
+
+    .footer__top{
+        gap: 0;
     }
 
     .footer__bottom img:nth-child(1){

@@ -17,7 +17,7 @@ function Project() {
                 contact eachother without a third-party.
                 </p>
                 <div className='project__btn'>
-                    <Btn name='See Details' />
+                    <Btn name='See Details' link='https://solanacash.io' />
                 </div>
             </div>
             <div className='project'>
@@ -36,7 +36,7 @@ function Project() {
                 we enjoyed working on this project!
                 </p>
                 <div className='project__btn'>
-                    <Btn name='See Details' />
+                    <Btn name='See Details' link='https://goldensixhotel.com' />
                 </div>
             </div>
             <div className='project'>
@@ -60,7 +60,7 @@ function Project() {
                 </div>
             </div>
             <div className='project'>
-                <img src={Ewc} alt='EWC' />
+                <img src={Ewc} alt='EWC' link='https://ewcng.com' />
             </div>
         </div>
 

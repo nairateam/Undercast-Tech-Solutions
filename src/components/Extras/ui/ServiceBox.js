@@ -18,7 +18,7 @@ function ServiceBox() {
                 delivering according to schedule.
                 </p>
                 <button className='box__btn btn1'>
-                    Get Started
+                <a href="#contact">Get Started</a>
                 </button>
             </div>
             <div className='box'>
@@ -31,7 +31,7 @@ function ServiceBox() {
                 individuals and potential clients.
                 </p>
                 <button className='box__btn btn2'>
-                    Get Started
+                <a href="#contact">Get Started</a>
                 </button>
             </div>
             <div className='box'>
@@ -44,7 +44,7 @@ function ServiceBox() {
                 bond with the brand and the Customers. 
                 </p>
                 <button className='box__btn btn3'>
-                    Get Started
+                <a href="#contact">Get Started</a>
                 </button>
             </div>
             <div className='box'>
@@ -57,7 +57,7 @@ function ServiceBox() {
                 aligned with recent trends and standards.
                 </p>
                 <button className='box__btn btn4'>
-                    Get Started
+                <a href="#contact">Get Started</a>
                 </button>
             </div>
             <div className='box'>
@@ -70,7 +70,7 @@ function ServiceBox() {
                 and concept of any niche or specialization.
                 </p>
                 <button className='box__btn btn5'>
-                    Get Started
+                <a href="#contact">Get Started</a>
                 </button>
             </div>
         </div>
