@@ -1,10 +1,10 @@
 import './HeroServices.css';
 import { motion } from 'framer-motion';
-import webdev from '../Extras/images/Frame1.svg';
-import uiux from '../Extras/images/Frame2.svg';
-import seo from '../Extras/images/Frame3.svg';
-import graphic from '../Extras/images/Frame4.svg';
-import mobileapp from '../Extras/images/Frame5.svg';
+import webdev from '../Extras/images/Frame1.webp';
+import uiux from '../Extras/images/Frame2.webp';
+import seo from '../Extras/images/Frame3.webp';
+import graphic from '../Extras/images/Frame4.webp';
+import mobileapp from '../Extras/images/Frame5.webp';
 
 function HeroServices() {
     return (

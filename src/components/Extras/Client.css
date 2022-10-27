@@ -5,7 +5,7 @@
     align-items: center;
     box-sizing: border-box;
     gap: 2rem;
-    overflow-x: scroll;
+    overflow-x: auto;
     scroll-behavior: smooth;
 }
 

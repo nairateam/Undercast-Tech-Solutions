@@ -1,8 +1,8 @@
 import './CSS/Testimonials.css';
 import Testimony from './props/TestWrap';
-import zee from './Extras/images/zee.PNG';
-import imade from './Extras/images/imade.PNG';
-import joe from './Extras/images/joe.PNG';
+import zee from './Extras/images/zee.webp';
+import imade from './Extras/images/imade.webp';
+import joe from './Extras/images/joe.webp';
 
 function Testimonials() {
     return (

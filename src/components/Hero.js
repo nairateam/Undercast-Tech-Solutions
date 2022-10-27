@@ -1,5 +1,5 @@
 import './CSS/Hero.css';
-import heroPic from '../IMAGES/saly.svg';
+import heroPic from '../IMAGES/saly.webp';
 import highT from './Extras/images/Highlight_05.svg';
 import vecT from './Extras/images/Vector1.svg';
 import Nav from './Nav.js';

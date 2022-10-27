@@ -1,11 +1,11 @@
 import './Client.css';
 
-import client1 from './images/client1.svg';
-import client2 from './images/client2.svg';
-import client3 from './images/client3.svg';
-import client4 from './images/client4.svg';
-import client5 from './images/client5.svg';
-import client6 from './images/client6.svg';
+import client1 from './images/client1.webp';
+import client2 from './images/client2.webp';
+import client3 from './images/client3.webp';
+import client4 from './images/client4.webp';
+import client5 from './images/client5.webp';
+import client6 from './images/client6.webp';
 
 function Client() {
     // var client = document.getElementById("client");

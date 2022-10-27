@@ -1,5 +1,5 @@
 import './CSS/Team.css';
-import ceo from './Extras/images/ceo.svg';
+import ceo from './Extras/images/ceo.webp';
 
 function Team() {
     return (

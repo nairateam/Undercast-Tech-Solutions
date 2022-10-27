@@ -1,8 +1,8 @@
 import './Project.css';
 import Btn from '../buttons/Btn';
-import solcash from './images/solcash.svg';
-import GSix from './images/g6.svg';
-import Ewc from './images/ewc.svg';
+import solcash from './images/solcash.webp';
+import GSix from './images/g6.webp';
+import Ewc from './images/ewc.webp';
 
 function Project() {
     return (
