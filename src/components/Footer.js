@@ -14,10 +14,13 @@ function Footer() {
             <div className="slit_foot">
                 <img src={log} alt='Logo' />
                 <div className='footer__top'>
-                <FooterItem head='About Undercast' info="Learn whats behind our comapany." />
-                <FooterItem head='Our Services' info="What exactly we are offering to do." />
-                <FooterItem head='Portfolio' info="A view of our works if you want to be convinced." />
-                <FooterItem head='Contact Us' info="We always look forward to hearing from you, reach out to us today!" />
+                <FooterItem head='About Undercast' info="A team of web creatives ready to deliver 100% inustry standard products." />
+                <FooterItem head='Our Services' info="Web development, Ui/Ux, SEO, App Development." />
+                <FooterItem head='Portfolio' info="Full portfolio and projects delivered are available on request." />
+                <FooterItem head='Contact Us' info="
+                +234 812 153 8461
+                info@undercast.tech
+                " />
             </div>
             </div>
             <div className='footer__bottom'>

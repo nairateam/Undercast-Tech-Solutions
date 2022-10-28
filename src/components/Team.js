@@ -22,12 +22,12 @@ function Team() {
                     “We Are Here To Satisfy You...”
                     </p>
                     <p className='team_sub'>
-                    Undercast Tech Solutions is the home of Technology and Information solutions, we were founded 2015 and since then we have been delivering top notch services to our various customers and collaborators worldwide. We are happy to have you on our landing page and hope you find what you are looking for. We develop websites, search engine optimize them, 
-                    design graphics, promote music and advertise your digital products...
+                    Undercast Tech Solutions is the home of Technology and Information solutions, we started the journey in 2018 and since then we have been delivering top notch services to our various customers and collaborators. We are happy to have you on our page and hope we get to work and collaborate together. We develop websites, optimize them for search engines, 
+                    design graphics, build applications and related online services...
                     </p>
                     <span>
                         <h4>
-                        Founder & CEO
+                        Lead Creative
                         </h4>
                         <p>
                         Undercast Technology Solutions<br/>

@@ -52,8 +52,8 @@ function Project() {
                 EWC (Travel Agency)
                 </p>
                 <p className='p_sub'>
-                A great platform for you to plan and prepare for your trips overseas, 
-                book tickets and get information.
+                A visa application website for EWC agency, 
+                project was developed using CMS framework.
                 </p>
                 <div className='project__btn'>
                     <Btn name='See Details' />
